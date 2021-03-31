@@ -1,4 +1,4 @@
-# Multi-class-Classification-of-White-Blood-Cells-using-CNN
+# Multi-class-Classification-of-White-Blood-Cells-using-CNNNN
 This notebook contains the multi-class classification of White Blood Cells using Convolutional Neural Network.
 
 
